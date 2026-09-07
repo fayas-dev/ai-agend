@@ -1,0 +1,12 @@
+customtkinter
+SpeechRecognition
+PyAudio
+sounddevice
+numpy
+websockets
+pyinstaller
+pyttsx3
+pystray
+Pillow
+qrcode
+pyautogui

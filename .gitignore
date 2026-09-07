@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+/lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+*.spec
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+*.env
+
+# Flutter/Dart
+Mobile_App/.dart_tool/
+Mobile_App/.flutter-plugins
+Mobile_App/.flutter-plugins-dependencies
+Mobile_App/.packages
+Mobile_App/.pub-cache/
+Mobile_App/.pub/
+Mobile_App/build/
+Mobile_App/ios/
+Mobile_App/android/.gradle/
+Mobile_App/android/app/*.iml
+Mobile_App/android/local.properties
+Mobile_App/android/key.properties
+Mobile_App/*.keystore
+
+# PC App Build
+PC_App/dist/
+PC_App/build/
+PC_App/*.spec
+*.apk
+*.exe
+*.zip
